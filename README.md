@@ -2,7 +2,7 @@
 # Date 3/8/2017
 # Organizer: Jeshal Mehta
 
-# Contains one java file with solutions to following problems:
+# Contains java file with solutions to following problems:
 
 1. Calculate factorial of a number.
 2. Create the following pattern
